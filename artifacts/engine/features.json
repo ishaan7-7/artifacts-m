@@ -1,0 +1,28 @@
+{
+    "features": [
+        "air_fuel_ratio_commanded_1",
+        "air_fuel_ratio_measured_1",
+        "catalyst_temperature_bank_1_sensor_1",
+        "catalyst_temperature_bank_1_sensor_2",
+        "ecu_7ea_engine_coolant_temperature",
+        "ecu_7ea_intake_air_temperature",
+        "ecu_7eb_ambient_air_temp",
+        "ecu_7eb_engine_load",
+        "ecu_7eb_engine_rpm_rpm",
+        "ecu_7eb_speed_obd_km_h",
+        "engine_kw_at_the_wheels_kw",
+        "engine_load_absolute",
+        "engine_oil_temperature",
+        "engine_rpm_rpm",
+        "fuel_flow_rate_hour_l_hr",
+        "fuel_trim_bank_1_long_term",
+        "fuel_trim_bank_1_short_term",
+        "mass_air_flow_rate_g_s",
+        "o2_bank_1_sensor_2_voltage_v",
+        "o2_sensor1_wide_range_current_ma",
+        "timing_advance",
+        "turbo_boost_vacuum_gauge_psi",
+        "voltage_control_module_v",
+        "volumetric_efficiency_calculated"
+    ]
+}

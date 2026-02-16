@@ -1,0 +1,47 @@
+{
+    "lstm_thresholds": {
+        "p50": 0.20832762122154236,
+        "p90": 0.3489767909049988,
+        "p95": 0.4780813157558441,
+        "p99": 0.7468402981758118,
+        "p99_5": 1.4350099563598633,
+        "max": 4.42960262298584
+    },
+    "iforest_thresholds": {
+        "p50": 0.4458315867040304,
+        "p90": 0.5305848458898279,
+        "p95": 0.5563379957705596,
+        "p99": 0.5953909397280356,
+        "max": 0.6695741963388778
+    },
+    "feature_means": {
+        "accel_x_g": -3.4592282776200704e-08,
+        "accel_y_g": -1.587156828831095e-05,
+        "accel_z_g": 0.9999594641340922,
+        "acceleration_sensor_total_g": 1.0001045315890438,
+        "accelerator_pedal_position_d_per_e_per_f_pct": 24.817025692631844,
+        "actual_engine_pct_torque": 27.09394320576119,
+        "air_fuel_ratio_commanded": 15.2349985219661,
+        "air_fuel_ratio_measured": 15.338110294095411,
+        "bearing_heading_per_vehicle_yaw": 160.6637570363848,
+        "boost_pressure_commanded_a_per_b": 4.600854743859871,
+        "boost_pressure_sensor_a_per_b": 4.624348564420264,
+        "catalyst_temperatures_bank_sensors": 569.3145361543828,
+        "clutch_engagement_per_slip": 0.5645331614201705,
+        "driver_demand_engine_pct_torque": 27.291977735148908,
+        "egr_commanded_pct": 12.198163464259883,
+        "egr_error_pct": 1.7875851083621502e-18,
+        "engine_load_absolute_pct": 26.726577188399954,
+        "engine_load_calculated_pct": 27.70709141796912,
+        "engine_reference_torque_nm": 187.1745778169125,
+        "engine_rpm": 857.8573697286079,
+        "gear_commanded_target": 3.0755055190414793,
+        "gear_position_actual": 3.0756942042202584,
+        "throttle_position_manifold_pct": 24.80258040751596,
+        "torque_converter_slip_speed": 286.505418409384,
+        "transmission_oil_pressure": 2.428755526903362,
+        "transmission_oil_temperature": 55.44400798767257,
+        "vehicle_speed_kmh": 56.06699110034907
+    },
+    "sequence_length": 30
+}

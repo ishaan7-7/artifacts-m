@@ -1,0 +1,28 @@
+{
+    "features": [
+        "alcohol_fuel_percentage",
+        "alternator_load_pct",
+        "alternator_voltage_output",
+        "ambient_air_temperature",
+        "auxiliary_12v_battery_current_draw",
+        "average_trip_speed_overall",
+        "average_trip_speed_while_moving",
+        "barometer_android_device_mb",
+        "battery_current",
+        "battery_state_of_charge_soc_pct",
+        "battery_state_of_health_soh_pct",
+        "battery_temperature_cell",
+        "battery_voltage_ecu_7ee",
+        "charging_efficiency_pct",
+        "charging_power_kw",
+        "co_emissions_instant_per_avg",
+        "distance_to_empty_km",
+        "energy_consumption_per_km_wh_per_km_per_inr_per_km",
+        "engine_coolant_temperature",
+        "fuel_consumption_km_per_l_or_l_per_100_km",
+        "hv_battery_pack_current",
+        "hv_battery_pack_voltage",
+        "internal_resistance_impedance",
+        "regenerative_energy_recovered"
+    ]
+}

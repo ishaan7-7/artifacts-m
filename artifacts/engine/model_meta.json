@@ -1,0 +1,44 @@
+{
+    "lstm_thresholds": {
+        "p50": 0.13989004492759705,
+        "p90": 0.8367246985435486,
+        "p95": 1.4304591417312622,
+        "p99": 3.082504987716675,
+        "p99_5": 5.603127479553223,
+        "max": 25.232118606567383
+    },
+    "iforest_thresholds": {
+        "p50": 0.4089245718576605,
+        "p90": 0.49791142649141107,
+        "p95": 0.5279010407976422,
+        "p99": 0.6072756705453078,
+        "max": 0.6831293633262042
+    },
+    "feature_means": {
+        "air_fuel_ratio_commanded_1": 13.740942556069378,
+        "air_fuel_ratio_measured_1": 15.339905787848044,
+        "catalyst_temperature_bank_1_sensor_1": 569.3870667340364,
+        "catalyst_temperature_bank_1_sensor_2": 466.69587811501526,
+        "ecu_7ea_engine_coolant_temperature": 82.09396521903204,
+        "ecu_7ea_intake_air_temperature": 35.85351740620774,
+        "ecu_7eb_ambient_air_temp": 35.85200792477751,
+        "ecu_7eb_engine_load": 63.03754773244203,
+        "ecu_7eb_engine_rpm_rpm": 1754.9024890719834,
+        "ecu_7eb_speed_obd_km_h": 62.219975470926755,
+        "engine_kw_at_the_wheels_kw": 0.6689532819192425,
+        "engine_load_absolute": 54.18108372427592,
+        "engine_oil_temperature": 78.1896286046731,
+        "engine_rpm_rpm": 1583.872413443253,
+        "fuel_flow_rate_hour_l_hr": 4.41620773489009,
+        "fuel_trim_bank_1_long_term": -1.888989237082927,
+        "fuel_trim_bank_1_short_term": -0.5350993741941571,
+        "mass_air_flow_rate_g_s": 6.739582701992202,
+        "o2_bank_1_sensor_2_voltage_v": 0.3913143504125916,
+        "o2_sensor1_wide_range_current_ma": 0.5535856080379886,
+        "timing_advance": 8.598493663322746,
+        "turbo_boost_vacuum_gauge_psi": -0.735542052942231,
+        "voltage_control_module_v": 13.338983143140666,
+        "volumetric_efficiency_calculated": 48.72662662347872
+    },
+    "sequence_length": 30
+}

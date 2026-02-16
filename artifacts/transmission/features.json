@@ -1,0 +1,31 @@
+{
+    "features": [
+        "accel_x_g",
+        "accel_y_g",
+        "accel_z_g",
+        "acceleration_sensor_total_g",
+        "accelerator_pedal_position_d_per_e_per_f_pct",
+        "actual_engine_pct_torque",
+        "air_fuel_ratio_commanded",
+        "air_fuel_ratio_measured",
+        "bearing_heading_per_vehicle_yaw",
+        "boost_pressure_commanded_a_per_b",
+        "boost_pressure_sensor_a_per_b",
+        "catalyst_temperatures_bank_sensors",
+        "clutch_engagement_per_slip",
+        "driver_demand_engine_pct_torque",
+        "egr_commanded_pct",
+        "egr_error_pct",
+        "engine_load_absolute_pct",
+        "engine_load_calculated_pct",
+        "engine_reference_torque_nm",
+        "engine_rpm",
+        "gear_commanded_target",
+        "gear_position_actual",
+        "throttle_position_manifold_pct",
+        "torque_converter_slip_speed",
+        "transmission_oil_pressure",
+        "transmission_oil_temperature",
+        "vehicle_speed_kmh"
+    ]
+}

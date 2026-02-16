@@ -1,0 +1,44 @@
+{
+    "lstm_thresholds": {
+        "p50": 0.10414145141839981,
+        "p90": 0.45941925048828125,
+        "p95": 0.5366708040237427,
+        "p99": 2.0203826427459717,
+        "p99_5": 2.0817275047302246,
+        "max": 9.482346534729004
+    },
+    "iforest_thresholds": {
+        "p50": 0.4682336213423592,
+        "p90": 0.5212370949156293,
+        "p95": 0.5397422578496313,
+        "p99": 0.6120994774427446,
+        "max": 0.6545585480354157
+    },
+    "feature_means": {
+        "alcohol_fuel_percentage": 12.10614862102582,
+        "alternator_load_pct": 51.56097676027548,
+        "alternator_voltage_output": 13.337304599807856,
+        "ambient_air_temperature": 32.99866662473663,
+        "auxiliary_12v_battery_current_draw": 6.19560583666153,
+        "average_trip_speed_overall": 46.920316676625056,
+        "average_trip_speed_while_moving": 49.36144941664832,
+        "barometer_android_device_mb": 1006.8950753168339,
+        "battery_current": 20.37818421962955,
+        "battery_state_of_charge_soc_pct": 72.51622503852322,
+        "battery_state_of_health_soh_pct": 97.00015943897607,
+        "battery_temperature_cell": 32.4500009434259,
+        "battery_voltage_ecu_7ee": 13.188875750809775,
+        "charging_efficiency_pct": 92.1327966288248,
+        "charging_power_kw": 0.2719461303814585,
+        "co_emissions_instant_per_avg": 159.1143463630932,
+        "distance_to_empty_km": 366.83805151105383,
+        "energy_consumption_per_km_wh_per_km_per_inr_per_km": 136.41648165036636,
+        "engine_coolant_temperature": 82.27780747822258,
+        "fuel_consumption_km_per_l_or_l_per_100_km": 14.67409446837951,
+        "hv_battery_pack_current": 0.032992546935438224,
+        "hv_battery_pack_voltage": 360.01251548790844,
+        "internal_resistance_impedance": 0.007994825623447279,
+        "regenerative_energy_recovered": 2.6812987200855374
+    },
+    "sequence_length": 30
+}

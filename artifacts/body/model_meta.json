@@ -1,0 +1,31 @@
+{
+    "lstm_thresholds": {
+        "p50": 0.04751693829894066,
+        "p90": 0.1339872032403946,
+        "p95": 0.2861802875995636,
+        "p99": 0.3458214998245239,
+        "p99_5": 0.365952730178833,
+        "max": 56.19798278808594
+    },
+    "iforest_thresholds": {
+        "p50": 0.49780118901089454,
+        "p90": 0.5332582481759781,
+        "p95": 0.546115966758469,
+        "p99": 0.5897856905421935,
+        "max": 0.6833584039433553
+    },
+    "feature_means": {
+        "ac_compressor_load_pct": 56.69609107204629,
+        "ambient_air_temperature_body": 32.99943079971068,
+        "cabin_humidity_pct": 64.48533287210289,
+        "cabin_temperature": 22.556030063838485,
+        "distance_since_codes_cleared": 5942.935689801566,
+        "distance_with_mil_lit": 0.0,
+        "fuel_level_pct": 36.97662536557753,
+        "hvac_blower_speed": 26.153967105883833,
+        "odometer_reading": 42260.2512311708,
+        "sunroof_position_pct": 3.8480140884933487,
+        "window_open_pct": 10.26016541400673
+    },
+    "sequence_length": 30
+}

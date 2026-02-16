@@ -1,0 +1,15 @@
+{
+    "features": [
+        "ac_compressor_load_pct",
+        "ambient_air_temperature_body",
+        "cabin_humidity_pct",
+        "cabin_temperature",
+        "distance_since_codes_cleared",
+        "distance_with_mil_lit",
+        "fuel_level_pct",
+        "hvac_blower_speed",
+        "odometer_reading",
+        "sunroof_position_pct",
+        "window_open_pct"
+    ]
+}
